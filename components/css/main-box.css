@@ -1,11 +1,14 @@
 .main-box { 
     display: flex;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 .main-box .wrapper {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+.main-box .main-subtitle {
+    margin-top: 15px;
 }
 
