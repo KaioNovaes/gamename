@@ -1,0 +1,11 @@
+.main-box { 
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.main-box .wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
